@@ -1,0 +1,87 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 29 Mar 2023 16:04:26 GMT
+ */
+
+:root {
+  --color-brand-primary-50: #fff5f8;
+  --color-brand-primary-100: #ffc2d7;
+  --color-brand-primary-200: #ff8fb6;
+  --color-brand-primary-300: #ff528f;
+  --color-brand-primary-400: #e50051;
+  --color-brand-primary-500: #c30045;
+  --color-brand-primary-600: #a8003c;
+  --color-brand-primary-700: #8f0033;
+  --color-brand-primary-800: #5a0037;
+  --color-brand-primary-900: #3d0025;
+  --color-brand-secondary-50: #fafafa;
+  --color-brand-secondary-100: #e8ebed;
+  --color-brand-secondary-200: #d2d2d7;
+  --color-brand-secondary-300: #98a7b3;
+  --color-brand-secondary-400: #657988;
+  --color-brand-secondary-500: #51626f;
+  --color-brand-secondary-600: #47545c;
+  --color-brand-secondary-700: #333d45;
+  --color-brand-secondary-800: #1c2226;
+  --color-brand-secondary-900: #060809;
+  --color-functional-error: #8f0033;
+  --color-functional-warning: #d0893c;
+  --color-functional-success: #93bf3e;
+  --color-functional-info: #51626f;
+  --color-functional-focus: #3d0025;
+  --color-functional-balans-negative: #eb0016;
+  --color-functional-balans-positive: #93bf3e;
+  --color-background-default: #1c1c1e;
+  --color-background-inverted: #ffffff;
+  --color-gradient-default-horizontal: #000000;
+  --color-gradient-default-vertical: #000000;
+  --color-gradient-private-horizontal: #000000;
+  --color-gradient-private-vertical: #000000;
+  --color-text-default: #ffffff;
+  --color-text-dimmed: #000000;
+  --color-text-disabled: #98a7b3;
+  --color-text-inverted: #060809;
+  --color-text-brand: #e50051;
+  --color-neutrals-0: #ffffff;
+  --color-neutrals-50: #fafafa;
+  --color-neutrals-100: #e8ebed;
+  --color-neutrals-200: #d2d2d7;
+  --color-neutrals-300: #98a7b3;
+  --color-neutrals-400: #657988;
+  --color-neutrals-500: #51626f;
+  --color-neutrals-600: #47545c;
+  --color-neutrals-700: #333d45;
+  --color-neutrals-800: #1c2226;
+  --color-neutrals-900: #060809;
+  --color-neutrals-1000: #000000;
+  --color-products-een: #96ddc7;
+  --color-products-spaarrekeningen: #009a9e;
+  --color-products-vastgoedfonds: #1c0b4b;
+  --color-products-staats-publieke-uitgiften-lessthen-1-jaar: #314701;
+  --color-products-vastgoedcertificaten: #42589e;
+  --color-products-vermogensbeheer: #51626f;
+  --color-products-betaalrekeningen: #5369b1;
+  --color-products-staats-of-publieke-uitgiften-greaterthen-1-jaar: #546313;
+  --color-products-arco-positie-op-30-06-2013: #5a0037;
+  --color-products-obligaties: #697d19;
+  --color-products-termijnrekeningen-lessthen-1-week: #6e3386;
+  --color-products-thesauriebewijzen: #775031;
+  --color-products-termijnrekeningen-greaterthen-1-jaar: #893f7f;
+  --color-products-commercial-paper: #8c2a1d;
+  --color-products-investrekeningen: #8cc8aa;
+  --color-products-euro-obligaties: #93ad23;
+  --color-products-aandelen: #9b0f3a;
+  --color-products-warranten-en-opties: #b74e76;
+  --color-products-termijnrekeningen-lessthen-1-jaar: #b84e76;
+  --color-products-pensioenspaarfondsen: #b92020;
+  --color-products-belfiusbons: #c30045;
+  --color-products-fiscale-beleggingsverzekeringen: #cc5c35;
+  --color-products-kasbons: #cf6a6d;
+  --color-products-beleggingsverzekeringen: #d0893c;
+  --color-products-investeringsfondsen: #e0c228;
+  --color-products-etf: #efb434;
+  --color-products-diversen: #f03241;
+  --color-products-gestructureerde-beleggingen: #ffdae1;
+  --token-set-order-0: bel-color-light;
+  --token-set-order-1: bel-color-dark;
+}

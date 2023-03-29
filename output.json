@@ -1,0 +1,352 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "50": {
+          "value": "#FFF5F8",
+          "type": "color"
+        },
+        "100": {
+          "value": "#FFC2D7",
+          "type": "color"
+        },
+        "200": {
+          "value": "#FF8FB6",
+          "type": "color"
+        },
+        "300": {
+          "value": "#FF528F",
+          "type": "color"
+        },
+        "400": {
+          "value": "#E50051",
+          "type": "color"
+        },
+        "500": {
+          "value": "#C30045",
+          "type": "color"
+        },
+        "600": {
+          "value": "#A8003C",
+          "type": "color"
+        },
+        "700": {
+          "value": "#8F0033",
+          "type": "color"
+        },
+        "800": {
+          "value": "#5A0037",
+          "type": "color"
+        },
+        "900": {
+          "value": "#3D0025",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "50": {
+          "value": "#FAFAFA",
+          "type": "color"
+        },
+        "100": {
+          "value": "#E8EBED",
+          "type": "color"
+        },
+        "200": {
+          "value": "#D2D2D7",
+          "type": "color"
+        },
+        "300": {
+          "value": "#98A7B3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#657988",
+          "type": "color"
+        },
+        "500": {
+          "value": "#51626F",
+          "type": "color"
+        },
+        "600": {
+          "value": "#47545C",
+          "type": "color"
+        },
+        "700": {
+          "value": "#333D45",
+          "type": "color"
+        },
+        "800": {
+          "value": "#1C2226",
+          "type": "color"
+        },
+        "900": {
+          "value": "#060809",
+          "type": "color"
+        }
+      }
+    },
+    "functional": {
+      "error": {
+        "value": "#8F0033",
+        "type": "color"
+      },
+      "warning": {
+        "value": "#D0893C",
+        "type": "color"
+      },
+      "success": {
+        "value": "#93BF3E",
+        "type": "color"
+      },
+      "info": {
+        "value": "#51626F",
+        "type": "color"
+      },
+      "focus": {
+        "value": "#3D0025",
+        "type": "color"
+      },
+      "balans-negative": {
+        "value": "#EB0016",
+        "type": "color"
+      },
+      "balans-positive": {
+        "value": "#93BF3E",
+        "type": "color"
+      }
+    },
+    "background": {
+      "default": {
+        "value": "#1C1C1E",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "#ffffff",
+        "type": "color"
+      }
+    },
+    "gradient": {
+      "default": {
+        "horizontal": {
+          "value": "linear-gradient(90deg, #8C193C 0%, #C30045 100%)",
+          "type": "color",
+          "description": "Our lowest layer color that goes from bottom to top from 100% to 0% transparency"
+        },
+        "vertical": {
+          "value": "linear-gradient(137deg, #8C193C 14.62%, #C30045 85.38%)",
+          "type": "color",
+          "description": "Our lowest layer color that goes from left to right from 100% to 0% transparency"
+        }
+      },
+      "private": {
+        "horizontal": {
+          "value": "linear-gradient(90deg, #43515E 0%, #172025 100%)",
+          "type": "color",
+          "description": "Our lowest layer color that goes from bottom to top from 100% to 0% transparency"
+        },
+        "vertical": {
+          "value": "linear-gradient(180deg, #172025 0%, #43515E 100%)",
+          "type": "color",
+          "description": "Our lowest layer color that goes from left to right from 100% to 0% transparency"
+        }
+      }
+    },
+    "text": {
+      "default": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "dimmed": {
+        "value": "#838484}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#98A7B3",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "#060809",
+        "type": "color"
+      },
+      "brand": {
+        "value": "#E50051",
+        "type": "color"
+      }
+    },
+    "neutrals": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "50": {
+        "value": "#FAFAFA",
+        "type": "color"
+      },
+      "100": {
+        "value": "#E8EBED",
+        "type": "color"
+      },
+      "200": {
+        "value": "#D2D2D7",
+        "type": "color"
+      },
+      "300": {
+        "value": "#98A7B3",
+        "type": "color"
+      },
+      "400": {
+        "value": "#657988",
+        "type": "color"
+      },
+      "500": {
+        "value": "#51626F",
+        "type": "color"
+      },
+      "600": {
+        "value": "#47545C",
+        "type": "color"
+      },
+      "700": {
+        "value": "#333D45",
+        "type": "color"
+      },
+      "800": {
+        "value": "#1C2226",
+        "type": "color"
+      },
+      "900": {
+        "value": "#060809",
+        "type": "color"
+      },
+      "1000": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "products": {
+      "een": {
+        "value": "#96DDC7",
+        "type": "color"
+      },
+      "spaarrekeningen": {
+        "value": "#009a9e",
+        "type": "color"
+      },
+      "vastgoedfonds": {
+        "value": "#1c0b4b",
+        "type": "color"
+      },
+      "staats-publieke_uitgiften_lessthen_1_jaar": {
+        "value": "#314701",
+        "type": "color"
+      },
+      "vastgoedcertificaten": {
+        "value": "#42589e",
+        "type": "color"
+      },
+      "vermogensbeheer": {
+        "value": "#51626f",
+        "type": "color"
+      },
+      "betaalrekeningen": {
+        "value": "#5369b1",
+        "type": "color"
+      },
+      "staats_of_publieke_uitgiften_greaterthen_1_jaar": {
+        "value": "#546313",
+        "type": "color"
+      },
+      "arco:_positie_op_30-06-2013": {
+        "value": "#5a0037",
+        "type": "color"
+      },
+      "obligaties": {
+        "value": "#697d19",
+        "type": "color"
+      },
+      "termijnrekeningen_lessthen_1_week": {
+        "value": "#6e3386",
+        "type": "color"
+      },
+      "thesauriebewijzen": {
+        "value": "#775031",
+        "type": "color"
+      },
+      "termijnrekeningen_greaterthen_1_jaar": {
+        "value": "#893f7f",
+        "type": "color"
+      },
+      "commercial_paper": {
+        "value": "#8c2a1d",
+        "type": "color"
+      },
+      "investrekeningen": {
+        "value": "#8cc8aa",
+        "type": "color"
+      },
+      "euro-obligaties": {
+        "value": "#93ad23",
+        "type": "color"
+      },
+      "aandelen": {
+        "value": "#9b0f3a",
+        "type": "color"
+      },
+      "warranten_en_opties": {
+        "value": "#b74e76",
+        "type": "color"
+      },
+      "termijnrekeningen_lessthen_1_jaar": {
+        "value": "#b84e76",
+        "type": "color"
+      },
+      "pensioenspaarfondsen": {
+        "value": "#b92020",
+        "type": "color"
+      },
+      "belfiusbons": {
+        "value": "#c30045",
+        "type": "color"
+      },
+      "fiscale_beleggingsverzekeringen": {
+        "value": "#cc5c35",
+        "type": "color"
+      },
+      "kasbons": {
+        "value": "#cf6a6d",
+        "type": "color"
+      },
+      "beleggingsverzekeringen": {
+        "value": "#d0893c",
+        "type": "color"
+      },
+      "investeringsfondsen": {
+        "value": "#e0c228",
+        "type": "color"
+      },
+      "etf": {
+        "value": "#efb434",
+        "type": "color"
+      },
+      "diversen": {
+        "value": "#f03241",
+        "type": "color"
+      },
+      "gestructureerde_beleggingen": {
+        "value": "#ffdae1",
+        "type": "color"
+      }
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "bel-color-light",
+      "type": "other"
+    },
+    "1": {
+      "value": "bel-color-dark",
+      "type": "other"
+    }
+  }
+}
